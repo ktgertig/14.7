@@ -1,0 +1,28 @@
+.app {
+	max-width: 800px;
+	margin: auto;
+}
+
+.contactForm {
+	margin: auto;
+	border: 5px solid blue;
+	border-radius: 10px;
+	padding: 1% 1%;
+}
+
+.contactsList {
+	padding: 0;
+}
+
+.contactItem {
+	background-color: rgba(0,0,0,0.4);
+    padding: 1%;
+    margin: 1%;
+}
+
+.contactImage {
+	float: left;
+    width: 100px;
+    padding: 0 10px;
+
+}
